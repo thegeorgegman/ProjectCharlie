@@ -1,0 +1,7022 @@
+fileFormatVersion: 2
+guid: 20bba39e0ee201b4fa6886cb32504083
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 15945331637124544
+    second: Industrial-TileSheet_0
+  - first:
+      213: -9063639954297698359
+    second: Industrial-TileSheet_1
+  - first:
+      213: -6575682421105706254
+    second: Industrial-TileSheet_2
+  - first:
+      213: -3749701248768094888
+    second: Industrial-TileSheet_3
+  - first:
+      213: -4474322317441096736
+    second: Industrial-TileSheet_4
+  - first:
+      213: -8633747852179855539
+    second: Industrial-TileSheet_5
+  - first:
+      213: 150724850986682109
+    second: Industrial-TileSheet_6
+  - first:
+      213: -613363117502183263
+    second: Industrial-TileSheet_7
+  - first:
+      213: -8659185080867650587
+    second: Industrial-TileSheet_8
+  - first:
+      213: -4329464044814534704
+    second: Industrial-TileSheet_9
+  - first:
+      213: 8027430932337170381
+    second: Industrial-TileSheet_10
+  - first:
+      213: 5239493448566709675
+    second: Industrial-TileSheet_11
+  - first:
+      213: 6648528989501939613
+    second: Industrial-TileSheet_12
+  - first:
+      213: -8001385622873072580
+    second: Industrial-TileSheet_13
+  - first:
+      213: 4282932300002319765
+    second: Industrial-TileSheet_14
+  - first:
+      213: 4130103968991415284
+    second: Industrial-TileSheet_15
+  - first:
+      213: -7486740368743524901
+    second: Industrial-TileSheet_16
+  - first:
+      213: -7491641485282743621
+    second: Industrial-TileSheet_17
+  - first:
+      213: -152921002318537246
+    second: Industrial-TileSheet_18
+  - first:
+      213: 7765964105229500870
+    second: Industrial-TileSheet_19
+  - first:
+      213: 8723952368440954054
+    second: Industrial-TileSheet_20
+  - first:
+      213: 511675761862818120
+    second: Industrial-TileSheet_21
+  - first:
+      213: -876716794570187248
+    second: Industrial-TileSheet_22
+  - first:
+      213: -732694435164549198
+    second: Industrial-TileSheet_23
+  - first:
+      213: -1010188653417655990
+    second: Industrial-TileSheet_24
+  - first:
+      213: 6062614564837404125
+    second: Industrial-TileSheet_25
+  - first:
+      213: 81051097208075793
+    second: Industrial-TileSheet_26
+  - first:
+      213: 590365360774198526
+    second: Industrial-TileSheet_27
+  - first:
+      213: 4520915177958543051
+    second: Industrial-TileSheet_28
+  - first:
+      213: 5409477440020875276
+    second: Industrial-TileSheet_29
+  - first:
+      213: 3196349593111383866
+    second: Industrial-TileSheet_30
+  - first:
+      213: -6039775331056138634
+    second: Industrial-TileSheet_31
+  - first:
+      213: 2584911696969820875
+    second: Industrial-TileSheet_32
+  - first:
+      213: -2682424475635383413
+    second: Industrial-TileSheet_33
+  - first:
+      213: -7773315407850196398
+    second: Industrial-TileSheet_34
+  - first:
+      213: -5858200966246661909
+    second: Industrial-TileSheet_35
+  - first:
+      213: -3614511767985000537
+    second: Industrial-TileSheet_36
+  - first:
+      213: 376901131992641930
+    second: Industrial-TileSheet_37
+  - first:
+      213: 2455762297478024448
+    second: Industrial-TileSheet_38
+  - first:
+      213: -9199056963296852405
+    second: Industrial-TileSheet_39
+  - first:
+      213: 1793531321895982238
+    second: Industrial-TileSheet_40
+  - first:
+      213: -7069944157178334547
+    second: Industrial-TileSheet_41
+  - first:
+      213: -6304845336532907757
+    second: Industrial-TileSheet_42
+  - first:
+      213: -3501789037583750603
+    second: Industrial-TileSheet_43
+  - first:
+      213: 7282449200101268026
+    second: Industrial-TileSheet_44
+  - first:
+      213: 2073320420214290560
+    second: Industrial-TileSheet_45
+  - first:
+      213: 7845078801993703143
+    second: Industrial-TileSheet_46
+  - first:
+      213: -7442837097882021042
+    second: Industrial-TileSheet_47
+  - first:
+      213: 4074599190995739517
+    second: Industrial-TileSheet_48
+  - first:
+      213: 8857047415423394056
+    second: Industrial-TileSheet_49
+  - first:
+      213: -7176869484890053377
+    second: Industrial-TileSheet_50
+  - first:
+      213: -4899853226238610783
+    second: Industrial-TileSheet_51
+  - first:
+      213: 7483859173390072991
+    second: Industrial-TileSheet_52
+  - first:
+      213: 1824133918497744681
+    second: Industrial-TileSheet_53
+  - first:
+      213: -3485114602829264679
+    second: Industrial-TileSheet_54
+  - first:
+      213: 2844062381063717215
+    second: Industrial-TileSheet_55
+  - first:
+      213: 3223395436056045370
+    second: Industrial-TileSheet_56
+  - first:
+      213: -8596500951068820863
+    second: Industrial-TileSheet_57
+  - first:
+      213: -3928179320706488507
+    second: Industrial-TileSheet_58
+  - first:
+      213: 5685116741237093791
+    second: Industrial-TileSheet_59
+  - first:
+      213: -3654390917620531729
+    second: Industrial-TileSheet_60
+  - first:
+      213: 9126012189416173696
+    second: Industrial-TileSheet_61
+  - first:
+      213: 3417841132234104462
+    second: Industrial-TileSheet_62
+  - first:
+      213: -2701160470108429499
+    second: Industrial-TileSheet_63
+  - first:
+      213: 7507107593307857899
+    second: Industrial-TileSheet_64
+  - first:
+      213: -4877880362268190024
+    second: Industrial-TileSheet_65
+  - first:
+      213: -25402760727665430
+    second: Industrial-TileSheet_66
+  - first:
+      213: 4509766793144383896
+    second: Industrial-TileSheet_67
+  - first:
+      213: 6863976967937999129
+    second: Industrial-TileSheet_68
+  - first:
+      213: -6197680479364142182
+    second: Industrial-TileSheet_69
+  - first:
+      213: -2014559191151678216
+    second: Industrial-TileSheet_70
+  - first:
+      213: 655104507679649580
+    second: Industrial-TileSheet_71
+  - first:
+      213: 6303051835931210292
+    second: Industrial-TileSheet_72
+  - first:
+      213: -2180908899888375433
+    second: Industrial-TileSheet_73
+  - first:
+      213: -5953543989311352450
+    second: Industrial-TileSheet_74
+  - first:
+      213: 256390021568173920
+    second: Industrial-TileSheet_75
+  - first:
+      213: 7084768701968004817
+    second: Industrial-TileSheet_76
+  - first:
+      213: -7024199309823981507
+    second: Industrial-TileSheet_77
+  - first:
+      213: 3784637569763186551
+    second: Industrial-TileSheet_78
+  - first:
+      213: 5454462143620107884
+    second: Industrial-TileSheet_79
+  - first:
+      213: -7723175479133952669
+    second: Industrial-TileSheet_80
+  - first:
+      213: 1117544596430963138
+    second: Industrial-TileSheet_81
+  - first:
+      213: -7001438966271430990
+    second: Industrial-TileSheet_82
+  - first:
+      213: -8793629957047849244
+    second: Industrial-TileSheet_83
+  - first:
+      213: 1430361079045136477
+    second: Industrial-TileSheet_84
+  - first:
+      213: -870466472174459823
+    second: Industrial-TileSheet_85
+  - first:
+      213: 7474870627746101320
+    second: Industrial-TileSheet_86
+  - first:
+      213: 7207074563019266179
+    second: Industrial-TileSheet_87
+  - first:
+      213: -2693094945811396112
+    second: Industrial-TileSheet_88
+  - first:
+      213: -175017441791578107
+    second: Industrial-TileSheet_89
+  - first:
+      213: -5987412565687238123
+    second: Industrial-TileSheet_90
+  - first:
+      213: -224275524097794388
+    second: Industrial-TileSheet_91
+  - first:
+      213: -6629761028166546680
+    second: Industrial-TileSheet_92
+  - first:
+      213: 2206404220928532102
+    second: Industrial-TileSheet_93
+  - first:
+      213: -3908693840331263721
+    second: Industrial-TileSheet_94
+  - first:
+      213: 7759469174044639645
+    second: Industrial-TileSheet_95
+  - first:
+      213: 5207696585924445064
+    second: Industrial-TileSheet_96
+  - first:
+      213: -4955246883604175938
+    second: Industrial-TileSheet_97
+  - first:
+      213: 7719371585181413580
+    second: Industrial-TileSheet_98
+  - first:
+      213: 1490955979426442796
+    second: Industrial-TileSheet_99
+  - first:
+      213: -4534900827855742156
+    second: Industrial-TileSheet_100
+  - first:
+      213: -4693484562116630243
+    second: Industrial-TileSheet_101
+  - first:
+      213: -6367177637843717856
+    second: Industrial-TileSheet_102
+  - first:
+      213: 3785285691046918597
+    second: Industrial-TileSheet_103
+  - first:
+      213: -5886470053574119922
+    second: Industrial-TileSheet_104
+  - first:
+      213: 5396264785255927712
+    second: Industrial-TileSheet_105
+  - first:
+      213: -746496844995362005
+    second: Industrial-TileSheet_106
+  - first:
+      213: 1158866989012571898
+    second: Industrial-TileSheet_107
+  - first:
+      213: 2423278288632239428
+    second: Industrial-TileSheet_108
+  - first:
+      213: 5223216503453505099
+    second: Industrial-TileSheet_109
+  - first:
+      213: -8452794496644798774
+    second: Industrial-TileSheet_110
+  - first:
+      213: -7724255260996971641
+    second: Industrial-TileSheet_111
+  - first:
+      213: -167185682890175196
+    second: Industrial-TileSheet_112
+  - first:
+      213: -7016392667694459454
+    second: Industrial-TileSheet_113
+  - first:
+      213: -3393574877255698684
+    second: Industrial-TileSheet_114
+  - first:
+      213: 8595904333523098526
+    second: Industrial-TileSheet_115
+  - first:
+      213: 68176307230875102
+    second: Industrial-TileSheet_116
+  - first:
+      213: 572290318716561727
+    second: Industrial-TileSheet_117
+  - first:
+      213: 4799792950919022354
+    second: Industrial-TileSheet_118
+  - first:
+      213: 8213046557372087868
+    second: Industrial-TileSheet_119
+  - first:
+      213: -1375506478525856789
+    second: Industrial-TileSheet_120
+  - first:
+      213: -3499325891141778809
+    second: Industrial-TileSheet_121
+  - first:
+      213: -8501198091964945968
+    second: Industrial-TileSheet_122
+  - first:
+      213: -5061179644444474529
+    second: Industrial-TileSheet_123
+  - first:
+      213: -4473677814509916956
+    second: Industrial-TileSheet_124
+  - first:
+      213: -4050933403477561853
+    second: Industrial-TileSheet_125
+  - first:
+      213: 7052094103776593981
+    second: Industrial-TileSheet_126
+  - first:
+      213: 4367275499037615387
+    second: Industrial-TileSheet_127
+  - first:
+      213: 2468015527787818718
+    second: Industrial-TileSheet_128
+  - first:
+      213: 7890899679682372920
+    second: Industrial-TileSheet_129
+  - first:
+      213: -6184959399369569627
+    second: Industrial-TileSheet_130
+  - first:
+      213: -8981604440567987547
+    second: Industrial-TileSheet_131
+  - first:
+      213: -8618318979319735654
+    second: Industrial-TileSheet_132
+  - first:
+      213: -8544182471378113195
+    second: Industrial-TileSheet_133
+  - first:
+      213: -3906196179076297323
+    second: Industrial-TileSheet_134
+  - first:
+      213: 4623922338937038585
+    second: Industrial-TileSheet_135
+  - first:
+      213: 1230238811907417520
+    second: Industrial-TileSheet_136
+  - first:
+      213: 2434654285968875424
+    second: Industrial-TileSheet_137
+  - first:
+      213: 4593419592400622253
+    second: Industrial-TileSheet_138
+  - first:
+      213: 6531587196083519201
+    second: Industrial-TileSheet_139
+  - first:
+      213: -1412968124262931191
+    second: Industrial-TileSheet_140
+  - first:
+      213: 1282633361105300375
+    second: Industrial-TileSheet_141
+  - first:
+      213: 1865609125734732772
+    second: Industrial-TileSheet_142
+  - first:
+      213: 7296740394080930057
+    second: Industrial-TileSheet_143
+  - first:
+      213: -7476545928947948601
+    second: Industrial-TileSheet_144
+  - first:
+      213: 3245906637352226171
+    second: Industrial-TileSheet_145
+  - first:
+      213: 7575832275364993310
+    second: Industrial-TileSheet_146
+  - first:
+      213: -8925505584465615426
+    second: Industrial-TileSheet_147
+  - first:
+      213: 1371937398891031084
+    second: Industrial-TileSheet_148
+  - first:
+      213: 2339875175893703269
+    second: Industrial-TileSheet_149
+  - first:
+      213: -6250472885221370074
+    second: Industrial-TileSheet_150
+  - first:
+      213: -4505669230536444617
+    second: Industrial-TileSheet_151
+  - first:
+      213: -2297278906597640071
+    second: Industrial-TileSheet_152
+  - first:
+      213: -8824809191685218284
+    second: Industrial-TileSheet_153
+  - first:
+      213: -7038644162015914820
+    second: Industrial-TileSheet_154
+  - first:
+      213: 3615932570809186733
+    second: Industrial-TileSheet_155
+  - first:
+      213: -4298690702077361321
+    second: Industrial-TileSheet_156
+  - first:
+      213: 320691734332464067
+    second: Industrial-TileSheet_157
+  - first:
+      213: 3539619144565022024
+    second: Industrial-TileSheet_158
+  - first:
+      213: 4160180860091687330
+    second: Industrial-TileSheet_159
+  - first:
+      213: -6826219656100292441
+    second: Industrial-TileSheet_160
+  - first:
+      213: -4388843363752210933
+    second: Industrial-TileSheet_161
+  - first:
+      213: -2098500444200426274
+    second: Industrial-TileSheet_162
+  - first:
+      213: -5580445715745197446
+    second: Industrial-TileSheet_163
+  - first:
+      213: 1709948893466567824
+    second: Industrial-TileSheet_164
+  - first:
+      213: -3444382001144707653
+    second: Industrial-TileSheet_165
+  - first:
+      213: -6883605234102929038
+    second: Industrial-TileSheet_166
+  - first:
+      213: -697037308974183073
+    second: Industrial-TileSheet_167
+  - first:
+      213: 7025182170542936141
+    second: Industrial-TileSheet_168
+  - first:
+      213: 1009464083290498551
+    second: Industrial-TileSheet_169
+  - first:
+      213: 4602346943653106048
+    second: Industrial-TileSheet_170
+  - first:
+      213: 8495232391675768314
+    second: Industrial-TileSheet_171
+  - first:
+      213: 1113831415855820122
+    second: Industrial-TileSheet_172
+  - first:
+      213: -5383346164371525188
+    second: Industrial-TileSheet_173
+  - first:
+      213: -7468124411905763356
+    second: Industrial-TileSheet_174
+  - first:
+      213: -4854552668503646465
+    second: Industrial-TileSheet_175
+  - first:
+      213: -5624502279509641974
+    second: Industrial-TileSheet_176
+  - first:
+      213: 5546042593983154230
+    second: Industrial-TileSheet_177
+  - first:
+      213: -5012882133067405589
+    second: Industrial-TileSheet_178
+  - first:
+      213: 4162257583561825231
+    second: Industrial-TileSheet_179
+  - first:
+      213: -2924245404475213706
+    second: Industrial-TileSheet_180
+  - first:
+      213: -6205867370329149363
+    second: Industrial-TileSheet_181
+  - first:
+      213: -2850891014159655632
+    second: Industrial-TileSheet_182
+  - first:
+      213: -6884257289959250967
+    second: Industrial-TileSheet_183
+  - first:
+      213: 2208373917448688192
+    second: Industrial-TileSheet_184
+  - first:
+      213: 8274220648867862628
+    second: Industrial-TileSheet_185
+  - first:
+      213: -7028611364576704901
+    second: Industrial-TileSheet_186
+  - first:
+      213: 4553087973450015160
+    second: Industrial-TileSheet_187
+  - first:
+      213: 7339965350782629468
+    second: Industrial-TileSheet_188
+  - first:
+      213: 8318804663288761796
+    second: Industrial-TileSheet_189
+  - first:
+      213: 3965410771597989655
+    second: Industrial-TileSheet_190
+  - first:
+      213: -3890557494343213801
+    second: Industrial-TileSheet_191
+  - first:
+      213: 1328282711076718785
+    second: Industrial-TileSheet_192
+  - first:
+      213: -3555011625739303870
+    second: Industrial-TileSheet_193
+  - first:
+      213: 1883813868759897347
+    second: Industrial-TileSheet_194
+  - first:
+      213: -354259930263242620
+    second: Industrial-TileSheet_195
+  - first:
+      213: 1758333074353924073
+    second: Industrial-TileSheet_196
+  - first:
+      213: 4471180797681089924
+    second: Industrial-TileSheet_197
+  - first:
+      213: 7903683104641512632
+    second: Industrial-TileSheet_198
+  - first:
+      213: 6163826083237584761
+    second: Industrial-TileSheet_199
+  - first:
+      213: 5872487506497187004
+    second: Industrial-TileSheet_200
+  - first:
+      213: -8168138645149153529
+    second: Industrial-TileSheet_201
+  - first:
+      213: -3369427132947712396
+    second: Industrial-TileSheet_202
+  - first:
+      213: -1310247058072045094
+    second: Industrial-TileSheet_203
+  - first:
+      213: -8417224760828073047
+    second: Industrial-TileSheet_204
+  - first:
+      213: -6278062398477825132
+    second: Industrial-TileSheet_205
+  - first:
+      213: -5684284865992363681
+    second: Industrial-TileSheet_206
+  - first:
+      213: 9219352637775830405
+    second: Industrial-TileSheet_207
+  - first:
+      213: -8312013476617084810
+    second: Industrial-TileSheet_208
+  - first:
+      213: -8637026004282954652
+    second: Industrial-TileSheet_209
+  - first:
+      213: -5653980488374500101
+    second: Industrial-TileSheet_210
+  - first:
+      213: 3043884941122087941
+    second: Industrial-TileSheet_211
+  - first:
+      213: -2785515168597597668
+    second: Industrial-TileSheet_212
+  - first:
+      213: 706296076103663754
+    second: Industrial-TileSheet_213
+  - first:
+      213: -3660802228079042345
+    second: Industrial-TileSheet_214
+  - first:
+      213: -7002333804543845417
+    second: Industrial-TileSheet_215
+  - first:
+      213: 9035759959744454781
+    second: Industrial-TileSheet_216
+  - first:
+      213: 8418978289160014819
+    second: Industrial-TileSheet_217
+  - first:
+      213: 2232609896287779837
+    second: Industrial-TileSheet_218
+  - first:
+      213: -8017658281510044909
+    second: Industrial-TileSheet_219
+  - first:
+      213: -6655121385131813370
+    second: Industrial-TileSheet_220
+  - first:
+      213: 1912450311473359227
+    second: Industrial-TileSheet_221
+  - first:
+      213: 8169082769383706073
+    second: Industrial-TileSheet_222
+  - first:
+      213: 5548699384712769476
+    second: Industrial-TileSheet_223
+  - first:
+      213: 2750757950147055344
+    second: Industrial-TileSheet_224
+  - first:
+      213: 2200713268922314051
+    second: Industrial-TileSheet_225
+  - first:
+      213: 928230428903796773
+    second: Industrial-TileSheet_226
+  - first:
+      213: 1563356231238592544
+    second: Industrial-TileSheet_227
+  - first:
+      213: -5514793632712249754
+    second: Industrial-TileSheet_228
+  - first:
+      213: -8007311573831805234
+    second: Industrial-TileSheet_229
+  - first:
+      213: 1705683154730783951
+    second: Industrial-TileSheet_230
+  - first:
+      213: -4652634906275645305
+    second: Industrial-TileSheet_231
+  - first:
+      213: -232574804015221735
+    second: Industrial-TileSheet_232
+  - first:
+      213: -4023183960396874396
+    second: Industrial-TileSheet_233
+  - first:
+      213: -3005173132049524796
+    second: Industrial-TileSheet_234
+  - first:
+      213: 1544206726696979492
+    second: Industrial-TileSheet_235
+  - first:
+      213: 3073011844248376994
+    second: Industrial-TileSheet_236
+  - first:
+      213: 4308137986909424123
+    second: Industrial-TileSheet_237
+  - first:
+      213: 1805765988446757151
+    second: Industrial-TileSheet_238
+  - first:
+      213: -6882871307025562858
+    second: Industrial-TileSheet_239
+  - first:
+      213: -1048999729880991489
+    second: Industrial-TileSheet_240
+  - first:
+      213: 7153406669533720593
+    second: Industrial-TileSheet_241
+  - first:
+      213: -3015141340020091762
+    second: Industrial-TileSheet_242
+  - first:
+      213: 3060455126217405060
+    second: Industrial-TileSheet_243
+  - first:
+      213: 1529597323323085470
+    second: Industrial-TileSheet_244
+  - first:
+      213: 7154722667644118708
+    second: Industrial-TileSheet_245
+  - first:
+      213: -540911837791171041
+    second: Industrial-TileSheet_246
+  - first:
+      213: 964420401881586712
+    second: Industrial-TileSheet_247
+  - first:
+      213: 8987962276797481056
+    second: Industrial-TileSheet_248
+  - first:
+      213: 1465320708481234130
+    second: Industrial-TileSheet_249
+  - first:
+      213: -2764451927007836751
+    second: Industrial-TileSheet_250
+  - first:
+      213: -927097861948425281
+    second: Industrial-TileSheet_251
+  - first:
+      213: 7249285589925443497
+    second: Industrial-TileSheet_252
+  - first:
+      213: -4916778345746764774
+    second: Industrial-TileSheet_253
+  - first:
+      213: -3670753804257330575
+    second: Industrial-TileSheet_254
+  - first:
+      213: 4991953345392878899
+    second: Industrial-TileSheet_255
+  - first:
+      213: -2655172762928522611
+    second: Industrial-TileSheet_256
+  - first:
+      213: 603654003103977607
+    second: Industrial-TileSheet_257
+  - first:
+      213: 6597072232293678522
+    second: Industrial-TileSheet_258
+  - first:
+      213: 159024771634886191
+    second: Industrial-TileSheet_259
+  - first:
+      213: -8530562061662292723
+    second: Industrial-TileSheet_260
+  - first:
+      213: -3868759012485849254
+    second: Industrial-TileSheet_261
+  - first:
+      213: 9103585068294105769
+    second: Industrial-TileSheet_262
+  - first:
+      213: 8434510449470286634
+    second: Industrial-TileSheet_263
+  - first:
+      213: -7256740160355588502
+    second: Industrial-TileSheet_264
+  - first:
+      213: 1605781850657654189
+    second: Industrial-TileSheet_265
+  - first:
+      213: -2675038626473868835
+    second: Industrial-TileSheet_266
+  - first:
+      213: 4772629911253689745
+    second: Industrial-TileSheet_267
+  - first:
+      213: -511173507696738785
+    second: Industrial-TileSheet_268
+  - first:
+      213: -8730362566665089639
+    second: Industrial-TileSheet_269
+  - first:
+      213: -6278554058665790068
+    second: Industrial-TileSheet_270
+  - first:
+      213: -6183189771237779443
+    second: Industrial-TileSheet_271
+  - first:
+      213: 7206828045934336763
+    second: Industrial-TileSheet_272
+  - first:
+      213: 3978671059242074001
+    second: Industrial-TileSheet_273
+  - first:
+      213: 2072174199562783772
+    second: Industrial-TileSheet_274
+  - first:
+      213: 1220708850475887626
+    second: Industrial-TileSheet_275
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Industrial-TileSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7e04d136a83000800000000000000
+      internalID: 15945331637124544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74c089b7b773280800000000000000
+      internalID: -9063639954297698359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fab63e6dab7eb4a0800000000000000
+      internalID: -6575682421105706254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc65db49266fbc0800000000000000
+      internalID: -3749701248768094888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3225aee8308e1c0800000000000000
+      internalID: -4474322317441096736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47278e6214ce2880800000000000000
+      internalID: -8633747852179855539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df682e1147b771200800000000000000
+      internalID: 150724850986682109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c4fe8e75ec77f0800000000000000
+      internalID: -613363117502183263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3858a1c0564d780800000000000000
+      internalID: -8659185080867650587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7f005c367aae3c0800000000000000
+      internalID: -4329464044814534704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc790fcd6e9276f60800000000000000
+      internalID: 8027430932337170381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad1ecc088b66b840800000000000000
+      internalID: 5239493448566709675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f562af3e1544c50800000000000000
+      internalID: 6648528989501939613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9bbd4b2e55f090800000000000000
+      internalID: -8001385622873072580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d5fa22c38007b30800000000000000
+      internalID: 4282932300002319765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb0a257da3115930800000000000000
+      internalID: 4130103968991415284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd517731d41c91890800000000000000
+      internalID: -7486740368743524901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6425f2c7580890800000000000000
+      internalID: -7491641485282743621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed5b1a9827b0edf0800000000000000
+      internalID: -152921002318537246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c183a6353f36cb60800000000000000
+      internalID: 7765964105229500870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc9562574b11970800000000000000
+      internalID: 8723952368440954054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849b20af466d91700800000000000000
+      internalID: 511675761862818120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e560b68b645d3f0800000000000000
+      internalID: -876716794570187248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8c1f0b42f4d5f0800000000000000
+      internalID: -732694435164549198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4119ec95c61bf1f0800000000000000
+      internalID: -1010188653417655990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2e3b53dbb22450800000000000000
+      internalID: 6062614564837404125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163eb12b83ff1100800000000000000
+      internalID: 81051097208075793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef434a0fa26613800800000000000000
+      internalID: 590365360774198526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce04e9c6648dbe30800000000000000
+      internalID: 4520915177958543051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080fe03213521b40800000000000000
+      internalID: 5409477440020875276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f4e5b1507bb5c20800000000000000
+      internalID: 3196349593111383866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764b3526586e2ca0800000000000000
+      internalID: -6039775331056138634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca63a13e737fd320800000000000000
+      internalID: 2584911696969820875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8380f8c62d16cad0800000000000000
+      internalID: -2682424475635383413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b40442d2af1490800000000000000
+      internalID: -7773315407850196398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be08400624d73bea0800000000000000
+      internalID: -5858200966246661909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe8c092bca6ddc0800000000000000
+      internalID: -3614511767985000537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a813dd725950b3500800000000000000
+      internalID: 376901131992641930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d89f16cce941220800000000000000
+      internalID: 2455762297478024448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468b1a3e62665080800000000000000
+      internalID: -9199056963296852405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9495271c37e3e810800000000000000
+      internalID: 1793531321895982238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da279894f3382ed90800000000000000
+      internalID: -7069944157178334547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198d282290b088a0800000000000000
+      internalID: -6304845336532907757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa6707c65276fc0800000000000000
+      internalID: -3501789037583750603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1dd2a6f4701560800000000000000
+      internalID: 7282449200101268026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088bf60ffe9e5cc10800000000000000
+      internalID: 2073320420214290560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee18cbfa915fdc60800000000000000
+      internalID: 7845078801993703143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4394a3e71bb5b890800000000000000
+      internalID: -7442837097882021042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7325654062eb8830800000000000000
+      internalID: 4074599190995739517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016a1b92bd8aea70800000000000000
+      internalID: 8857047415423394056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4a9c96a33a66c90800000000000000
+      internalID: -7176869484890053377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2fe768379300cb0800000000000000
+      internalID: -4899853226238610783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb6fa54420cd760800000000000000
+      internalID: 7483859173390072991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927acca5220a05910800000000000000
+      internalID: 1824133918497744681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c5d0dbb262afc0800000000000000
+      internalID: -3485114602829264679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ca56caa3287720800000000000000
+      internalID: 2844062381063717215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a376cb0221dcbbc20800000000000000
+      internalID: 3223395436056045370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a3c346ee713b880800000000000000
+      internalID: -8596500951068820863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547214f58bd4c79c0800000000000000
+      internalID: -3928179320706488507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95301c1e8795ee40800000000000000
+      internalID: 5685116741237093791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed70dc72def84dc0800000000000000
+      internalID: -3654390917620531729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080390e0cbb16ae70800000000000000
+      internalID: 9126012189416173696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5889b66c9e6f20800000000000000
+      internalID: 3417841132234104462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5432cd12ddc838ad0800000000000000
+      internalID: -2701160470108429499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a0cde49a9e2860800000000000000
+      internalID: 7507107593307857899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba962697a94e4cb0800000000000000
+      internalID: -4877880362268190024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4638ed250c5aff0800000000000000
+      internalID: -25402760727665430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899393d2109e59e30800000000000000
+      internalID: 4509766793144383896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91148687faeb14f50800000000000000
+      internalID: 6863976967937999129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba024d07a6df9a0800000000000000
+      internalID: -6197680479364142182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce768d619da04e0800000000000000
+      internalID: -2014559191151678216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa00f2416671900800000000000000
+      internalID: 655104507679649580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432bd81ff30f87750800000000000000
+      internalID: 6303051835931210292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795aa619eadbb1e0800000000000000
+      internalID: -2180908899888375433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e715f62f843c06da0800000000000000
+      internalID: -5953543989311352450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067968fbd51ee8300800000000000000
+      internalID: 256390021568173920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6bb940997225260800000000000000
+      internalID: 7084768701968004817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c56a81f7058e90800000000000000
+      internalID: -7024199309823981507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777155d51dbb58430800000000000000
+      internalID: 3784637569763186551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eca4fab6422bb40800000000000000
+      internalID: 5454462143620107884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a63422d4c1d490800000000000000
+      internalID: -7723175479133952669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1cce2b3e0528f00800000000000000
+      internalID: 1117544596430963138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be20dafa54e5de90800000000000000
+      internalID: -7001438966271430990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeedeb0520c6f580800000000000000
+      internalID: -8793629957047849244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a701b2d9a9d310800000000000000
+      internalID: 1430361079045136477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15467210b5b7be3f0800000000000000
+      internalID: -870466472174459823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848becc7b331cb760800000000000000
+      internalID: 7474870627746101320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388548e512ca40460800000000000000
+      internalID: 7207074563019266179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f903885a6430aad0800000000000000
+      internalID: -2693094945811396112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_89
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f3806096329df0800000000000000
+      internalID: -175017441791578107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51280828eff68eca0800000000000000
+      internalID: -5987412565687238123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_91
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae165e599633ecf0800000000000000
+      internalID: -224275524097794388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b876a887b5ef3a0800000000000000
+      internalID: -6629761028166546680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1e5be2f8be9e10800000000000000
+      internalID: 2206404220928532102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113c4f49a781c9c0800000000000000
+      internalID: -3908693840331263721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9146843a1c2fab60800000000000000
+      internalID: 7759469174044639645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8838a0e0474754840800000000000000
+      internalID: 5207696585924445064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb36960a63d6b3bb0800000000000000
+      internalID: -4955246883604175938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07bf7ce87b02b60800000000000000
+      internalID: 7719371585181413580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e25795090f0b410800000000000000
+      internalID: 1490955979426442796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b980859bbc011c0800000000000000
+      internalID: -4534900827855742156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_101
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19224c68a46ddeb0800000000000000
+      internalID: -4693484562116630243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b3825cad33a7a0800000000000000
+      internalID: -6367177637843717856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_103
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9783cd749088430800000000000000
+      internalID: 3785285691046918597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6db39cae0f4ea0800000000000000
+      internalID: -5886470053574119922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af01274b3263ea40800000000000000
+      internalID: 5396264785255927712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b230a181319e3a5f0800000000000000
+      internalID: -746496844995362005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65506f26f151010800000000000000
+      internalID: 1158866989012571898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44557d1b3c631a120800000000000000
+      internalID: 2423278288632239428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46dd417cb79c7840800000000000000
+      internalID: 5223216503453505099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62c1ca034a1ba80800000000000000
+      internalID: -8452794496644798774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78355d5d3ceedc490800000000000000
+      internalID: -7724255260996971641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dccc7d1890eadf0800000000000000
+      internalID: -167185682890175196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c59a6d0b04c0ae90800000000000000
+      internalID: -7016392667694459454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407fb7a01a997e0d0800000000000000
+      internalID: -3393574877255698684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_115
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b92e2c279ca4770800000000000000
+      internalID: 8595904333523098526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd189e7df532f000800000000000000
+      internalID: 68176307230875102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ee73430f21f700800000000000000
+      internalID: 572290318716561727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c3fa224a4c9240800000000000000
+      internalID: 4799792950919022354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_119
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e78ef445a9af170800000000000000
+      internalID: 8213046557372087868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c731452839ece0800000000000000
+      internalID: -1375506478525856789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_121
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ca2964a5ef6fc0800000000000000
+      internalID: -3499325891141778809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_122
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9633b606da50a80800000000000000
+      internalID: -8501198091964945968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_123
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53037cbde313c9b0800000000000000
+      internalID: -5061179644444474529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec2792fabd4ae1c0800000000000000
+      internalID: -4473677814509916956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_125
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea4f4488138c7c0800000000000000
+      internalID: -4050933403477561853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380b3a49321ed160800000000000000
+      internalID: 7052094103776593981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_127
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1567647dedab9c30800000000000000
+      internalID: 4367275499037615387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee0f1eb07204220800000000000000
+      internalID: 2468015527787818718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83526bd637b128d60800000000000000
+      internalID: 7890899679682372920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0d52123c9a2aa0800000000000000
+      internalID: -6184959399369569627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2cfde095eea5380800000000000000
+      internalID: -8981604440567987547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad3a4dc84956880800000000000000
+      internalID: -8618318979319735654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6361bf47fc6980800000000000000
+      internalID: -8544182471378113195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d4b2365476ac9c0800000000000000
+      internalID: -3906196179076297323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e5516ed87b2040800000000000000
+      internalID: 4623922338937038585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5e3ac6eafa21110800000000000000
+      internalID: 1230238811907417520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9e0a7c21a9c120800000000000000
+      internalID: 2434654285968875424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2db5548ca1fbf30800000000000000
+      internalID: 4593419592400622253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee3c02f2fbd4aa50800000000000000
+      internalID: 6531587196083519201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ab5a2af0246ce0800000000000000
+      internalID: -1412968124262931191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2fb90f34dcc110800000000000000
+      internalID: 1282633361105300375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3552d8d99f3e910800000000000000
+      internalID: 1865609125734732772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90900778aba334560800000000000000
+      internalID: 7296740394080930057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32a2e0719fd3890800000000000000
+      internalID: -7476545928947948601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_145
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d467d93e6cb0d20800000000000000
+      internalID: 3245906637352226171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19d113e053c22960800000000000000
+      internalID: 7575832275364993310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_147
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb56925d5fb322480800000000000000
+      internalID: -8925505584465615426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a29f2abc91a0310800000000000000
+      internalID: 1371937398891031084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a16e54318e87020800000000000000
+      internalID: 2339875175893703269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6275b2ef60cd149a0800000000000000
+      internalID: -6250472885221370074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b776f4b5a871c0800000000000000
+      internalID: -4505669230536444617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ff36810d6e10e0800000000000000
+      internalID: -2297278906597640071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_153
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102007cbcaf78580800000000000000
+      internalID: -8824809191685218284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41aae4d66b15e90800000000000000
+      internalID: -7038644162015914820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_155
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9b8ded38f5e2230800000000000000
+      internalID: 3615932570809186733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_156
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7538767f49bf754c0800000000000000
+      internalID: -4298690702077361321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb5a4bee63537400800000000000000
+      internalID: 320691734332464067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d58f7bbd04f1130800000000000000
+      internalID: 3539619144565022024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_159
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e42f537eebb930800000000000000
+      internalID: 4160180860091687330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85a5fb3656441a0800000000000000
+      internalID: -6826219656100292441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_161
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e08b8b632b713c0800000000000000
+      internalID: -4388843363752210933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed42f6ed6f0a0e2e0800000000000000
+      internalID: -2098500444200426274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7238a020364e82b0800000000000000
+      internalID: -5580445715745197446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a52b7575fab710800000000000000
+      internalID: 1709948893466567824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5450fa1d81330d0800000000000000
+      internalID: -3444382001144707653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279764fa2858870a0800000000000000
+      internalID: -6883605234102929038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_167
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4663b240a356f0800000000000000
+      internalID: -697037308974183073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409e9d86f57e7160800000000000000
+      internalID: 7025182170542936141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ab024c36520e00800000000000000
+      internalID: 1009464083290498551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_170
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815c853922dedf30800000000000000
+      internalID: 4602346943653106048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_171
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afde93eb9d025e570800000000000000
+      internalID: 8495232391675768314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_172
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da1c975cf157f00800000000000000
+      internalID: 1113831415855820122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_173
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17ca98f238a45b0800000000000000
+      internalID: -5383346164371525188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_174
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e71fe94a64eb5890800000000000000
+      internalID: -7468124411905763356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_175
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe5a6a811a21acb0800000000000000
+      internalID: -4854552668503646465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f3770af0c1f1b0800000000000000
+      internalID: -5624502279509641974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384d83ea5087fc40800000000000000
+      internalID: 5546042593983154230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66d95624aae6ab0800000000000000
+      internalID: -5012882133067405589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd0eb383f43c930800000000000000
+      internalID: 4162257583561825231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_180
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678bf264c4efa67d0800000000000000
+      internalID: -2924245404475213706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_181
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f75cb18450e9a0800000000000000
+      internalID: -6205867370329149363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_182
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d19af2ab99f68d0800000000000000
+      internalID: -2850891014159655632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_183
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e59918743670a0800000000000000
+      internalID: -6884257289959250967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_184
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04254c0a068b5ae10800000000000000
+      internalID: 2208373917448688192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_185
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46898f867dfe3d270800000000000000
+      internalID: 8274220648867862628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c12ef33b557e90800000000000000
+      internalID: -7028611364576704901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b167987361df2f30800000000000000
+      internalID: 4553087973450015160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_188
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f215099bccd560800000000000000
+      internalID: 7339965350782629468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_189
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd803f24c4527370800000000000000
+      internalID: 8318804663288761796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171b9d4618f70730800000000000000
+      internalID: 3965410771597989655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d507b6296f10ac0800000000000000
+      internalID: -3890557494343213801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_192
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8450396120f6210800000000000000
+      internalID: 1328282711076718785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_193
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244cc6bf2cf0aaec0800000000000000
+      internalID: -3555011625739303870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_194
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30553669bb6a42a10800000000000000
+      internalID: 1883813868759897347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_195
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488318a687a651bf0800000000000000
+      internalID: -354259930263242620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_196
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7afa57d9ad66810800000000000000
+      internalID: 1758333074353924073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_197
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d34540f33dc0e30800000000000000
+      internalID: 4471180797681089924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f96d78e58fad60800000000000000
+      internalID: 7903683104641512632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_199
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd9a45a2f4a8550800000000000000
+      internalID: 6163826083237584761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2facf5444f7150800000000000000
+      internalID: 5872487506497187004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_201
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7078ebbcd21f4ae80800000000000000
+      internalID: -8168138645149153529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_202
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476b614efd36d31d0800000000000000
+      internalID: -3369427132947712396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_203
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97d9f1e3111dde0800000000000000
+      internalID: -1310247058072045094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_204
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab68382da2003b80800000000000000
+      internalID: -8417224760828073047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_205
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0efcd287dfd8a0800000000000000
+      internalID: -6278062398477825132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_206
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f517560f70d5d11b0800000000000000
+      internalID: -5684284865992363681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_207
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d50b9b068b1ff70800000000000000
+      internalID: 9219352637775830405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670aafd28cbc5ac80800000000000000
+      internalID: -8312013476617084810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c27ea2c9e132880800000000000000
+      internalID: -8637026004282954652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4c27fa3b60981b0800000000000000
+      internalID: -5653980488374500101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c2ebc0a3d0e3a20800000000000000
+      internalID: 3043884941122087941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12274366bcd759d0800000000000000
+      internalID: -2785515168597597668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8049620a844dc900800000000000000
+      internalID: 706296076103663754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0e362f4c7323dc0800000000000000
+      internalID: -3660802228079042345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db54753186b2de90800000000000000
+      internalID: -7002333804543845417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7024445fc7756d70800000000000000
+      internalID: 9035759959744454781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebcb19f52836d470800000000000000
+      internalID: 8418978289160014819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb314e2fd2dbfe10800000000000000
+      internalID: 2232609896287779837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bff18b54e8bb090800000000000000
+      internalID: -8017658281510044909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606dc1e4c5244a3a0800000000000000
+      internalID: -6655121385131813370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7964f9fc636a8a10800000000000000
+      internalID: 1912450311473359227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd41e14f796e5170800000000000000
+      internalID: 8169082769383706073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfab3f21b0f00d40800000000000000
+      internalID: 5548699384712769476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_224
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fec89118c7ac2620800000000000000
+      internalID: 2750757950147055344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_225
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6a96ee018a8e10800000000000000
+      internalID: 2200713268922314051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_226
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520f48838acb1ec00800000000000000
+      internalID: 928230428903796773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_227
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ae54953822b510800000000000000
+      internalID: 1563356231238592544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea990e8648773b0800000000000000
+      internalID: -5514793632712249754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_229
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec691e35c8050e090800000000000000
+      internalID: -8007311573831805234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_230
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc49819cacdcba710800000000000000
+      internalID: 1705683154730783951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_231
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7887bd514358e6fb0800000000000000
+      internalID: -4652634906275645305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_232
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91477fea27ab5ccf0800000000000000
+      internalID: -232574804015221735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_233
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dbe76f087ca28c0800000000000000
+      internalID: -4023183960396874396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_234
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d3af55fa7b46d0800000000000000
+      internalID: -3005173132049524796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_235
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cca8c16df1e6510800000000000000
+      internalID: 1544206726696979492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_236
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61ef6adf785aa20800000000000000
+      internalID: 3073011844248376994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_237
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94a117ca499cb30800000000000000
+      internalID: 4308137986909424123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_238
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e9d0699e5f0910800000000000000
+      internalID: 1805765988446757151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_239
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613430663012b70a0800000000000000
+      internalID: -6882871307025562858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_240
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff876f2bd443171f0800000000000000
+      internalID: -1048999729880991489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_241
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b77f2771064360800000000000000
+      internalID: 7153406669533720593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84d1881de01826d0800000000000000
+      internalID: -3015141340020091762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4823639e8bbe87a20800000000000000
+      internalID: 3060455126217405060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929f0259a83a3510800000000000000
+      internalID: 1529597323323085470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_245
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ec5fdb5eaa4360800000000000000
+      internalID: 7154722667644118708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_246
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e47a5ac8b4e78f0800000000000000
+      internalID: -540911837791171041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_247
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9a4cee3f426d00800000000000000
+      internalID: 964420401881586712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060002b0218abbc70800000000000000
+      internalID: 8987962276797481056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_249
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d43c07bb6dd55410800000000000000
+      internalID: 1465320708481234130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_250
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5cd0c7e91b2a9d0800000000000000
+      internalID: -2764451927007836751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_251
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3a8218694223f0800000000000000
+      internalID: -927097861948425281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_252
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73ddee5d2aa9460800000000000000
+      internalID: 7249285589925443497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_253
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6e6e052814cbb0800000000000000
+      internalID: -4916778345746764774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_254
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af35f0ddcde0dc0800000000000000
+      internalID: -3670753804257330575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_255
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335277f7e1bf64540800000000000000
+      internalID: 4991953345392878899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a5a58907ee62bd0800000000000000
+      internalID: -2655172762928522611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_257
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78051461e1c906800800000000000000
+      internalID: 603654003103977607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_258
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd35731e328d8b50800000000000000
+      internalID: 6597072232293678522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_259
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f8cfef28f43200800000000000000
+      internalID: 159024771634886191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_260
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f134700b5d9980800000000000000
+      internalID: -8530562061662292723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_261
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f903bfc286f4ac0800000000000000
+      internalID: -3868759012485849254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_262
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa6832036e665e70800000000000000
+      internalID: 9103585068294105769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_263
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b2ffad0966d0570800000000000000
+      internalID: 8434510449470286634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_264
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66a1b2a541ea4b90800000000000000
+      internalID: -7256740160355588502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_265
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5083bd512e84610800000000000000
+      internalID: 1605781850657654189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1839cca8a50ead0800000000000000
+      internalID: -2675038626473868835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_267
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952ea82e99cb3240800000000000000
+      internalID: 4772629911253689745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_268
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e352f2762f7e8f0800000000000000
+      internalID: -511173507696738785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_269
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d4f85408587d680800000000000000
+      internalID: -8730362566665089639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_270
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85732e49581ed8a0800000000000000
+      internalID: -6278554058665790068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_271
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081b8ab9a5e03aa0800000000000000
+      internalID: -6183189771237779443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_272
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa1d33acebc30460800000000000000
+      internalID: 7206828045934336763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_273
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f304c9f34173730800000000000000
+      internalID: 3978671059242074001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_274
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4ba5a477d1cc10800000000000000
+      internalID: 2072174199562783772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial-TileSheet_275
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c6ace5b34d0f010800000000000000
+      internalID: 1220708850475887626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Industrial-TileSheet_71: 655104507679649580
+      Industrial-TileSheet_67: 4509766793144383896
+      Industrial-TileSheet_153: -8824809191685218284
+      Industrial-TileSheet_245: 7154722667644118708
+      Industrial-TileSheet_204: -8417224760828073047
+      Industrial-TileSheet_237: 4308137986909424123
+      Industrial-TileSheet_141: 1282633361105300375
+      Industrial-TileSheet_128: 2468015527787818718
+      Industrial-TileSheet_40: 1793531321895982238
+      Industrial-TileSheet_209: -8637026004282954652
+      Industrial-TileSheet_70: -2014559191151678216
+      Industrial-TileSheet_205: -6278062398477825132
+      Industrial-TileSheet_255: 4991953345392878899
+      Industrial-TileSheet_17: -7491641485282743621
+      Industrial-TileSheet_171: 8495232391675768314
+      Industrial-TileSheet_202: -3369427132947712396
+      Industrial-TileSheet_187: 4553087973450015160
+      Industrial-TileSheet_176: -5624502279509641974
+      Industrial-TileSheet_199: 6163826083237584761
+      Industrial-TileSheet_200: 5872487506497187004
+      Industrial-TileSheet_124: -4473677814509916956
+      Industrial-TileSheet_217: 8418978289160014819
+      Industrial-TileSheet_218: 2232609896287779837
+      Industrial-TileSheet_246: -540911837791171041
+      Industrial-TileSheet_186: -7028611364576704901
+      Industrial-TileSheet_95: 7759469174044639645
+      Industrial-TileSheet_109: 5223216503453505099
+      Industrial-TileSheet_240: -1048999729880991489
+      Industrial-TileSheet_4: -4474322317441096736
+      Industrial-TileSheet_102: -6367177637843717856
+      Industrial-TileSheet_118: 4799792950919022354
+      Industrial-TileSheet_47: -7442837097882021042
+      Industrial-TileSheet_93: 2206404220928532102
+      Industrial-TileSheet_120: -1375506478525856789
+      Industrial-TileSheet_197: 4471180797681089924
+      Industrial-TileSheet_232: -232574804015221735
+      Industrial-TileSheet_188: 7339965350782629468
+      Industrial-TileSheet_144: -7476545928947948601
+      Industrial-TileSheet_132: -8618318979319735654
+      Industrial-TileSheet_172: 1113831415855820122
+      Industrial-TileSheet_145: 3245906637352226171
+      Industrial-TileSheet_88: -2693094945811396112
+      Industrial-TileSheet_207: 9219352637775830405
+      Industrial-TileSheet_161: -4388843363752210933
+      Industrial-TileSheet_256: -2655172762928522611
+      Industrial-TileSheet_54: -3485114602829264679
+      Industrial-TileSheet_82: -7001438966271430990
+      Industrial-TileSheet_97: -4955246883604175938
+      Industrial-TileSheet_148: 1371937398891031084
+      Industrial-TileSheet_49: 8857047415423394056
+      Industrial-TileSheet_2: -6575682421105706254
+      Industrial-TileSheet_25: 6062614564837404125
+      Industrial-TileSheet_104: -5886470053574119922
+      Industrial-TileSheet_259: 159024771634886191
+      Industrial-TileSheet_222: 8169082769383706073
+      Industrial-TileSheet_211: 3043884941122087941
+      Industrial-TileSheet_233: -4023183960396874396
+      Industrial-TileSheet_9: -4329464044814534704
+      Industrial-TileSheet_94: -3908693840331263721
+      Industrial-TileSheet_231: -4652634906275645305
+      Industrial-TileSheet_44: 7282449200101268026
+      Industrial-TileSheet_19: 7765964105229500870
+      Industrial-TileSheet_236: 3073011844248376994
+      Industrial-TileSheet_194: 1883813868759897347
+      Industrial-TileSheet_106: -746496844995362005
+      Industrial-TileSheet_252: 7249285589925443497
+      Industrial-TileSheet_273: 3978671059242074001
+      Industrial-TileSheet_51: -4899853226238610783
+      Industrial-TileSheet_73: -2180908899888375433
+      Industrial-TileSheet_33: -2682424475635383413
+      Industrial-TileSheet_86: 7474870627746101320
+      Industrial-TileSheet_181: -6205867370329149363
+      Industrial-TileSheet_30: 3196349593111383866
+      Industrial-TileSheet_268: -511173507696738785
+      Industrial-TileSheet_110: -8452794496644798774
+      Industrial-TileSheet_174: -7468124411905763356
+      Industrial-TileSheet_28: 4520915177958543051
+      Industrial-TileSheet_11: 5239493448566709675
+      Industrial-TileSheet_136: 1230238811907417520
+      Industrial-TileSheet_29: 5409477440020875276
+      Industrial-TileSheet_264: -7256740160355588502
+      Industrial-TileSheet_15: 4130103968991415284
+      Industrial-TileSheet_225: 2200713268922314051
+      Industrial-TileSheet_154: -7038644162015914820
+      Industrial-TileSheet_18: -152921002318537246
+      Industrial-TileSheet_1: -9063639954297698359
+      Industrial-TileSheet_72: 6303051835931210292
+      Industrial-TileSheet_38: 2455762297478024448
+      Industrial-TileSheet_175: -4854552668503646465
+      Industrial-TileSheet_114: -3393574877255698684
+      Industrial-TileSheet_116: 68176307230875102
+      Industrial-TileSheet_247: 964420401881586712
+      Industrial-TileSheet_196: 1758333074353924073
+      Industrial-TileSheet_219: -8017658281510044909
+      Industrial-TileSheet_135: 4623922338937038585
+      Industrial-TileSheet_169: 1009464083290498551
+      Industrial-TileSheet_68: 6863976967937999129
+      Industrial-TileSheet_81: 1117544596430963138
+      Industrial-TileSheet_213: 706296076103663754
+      Industrial-TileSheet_107: 1158866989012571898
+      Industrial-TileSheet_152: -2297278906597640071
+      Industrial-TileSheet_27: 590365360774198526
+      Industrial-TileSheet_126: 7052094103776593981
+      Industrial-TileSheet_98: 7719371585181413580
+      Industrial-TileSheet_131: -8981604440567987547
+      Industrial-TileSheet_163: -5580445715745197446
+      Industrial-TileSheet_138: 4593419592400622253
+      Industrial-TileSheet_111: -7724255260996971641
+      Industrial-TileSheet_100: -4534900827855742156
+      Industrial-TileSheet_105: 5396264785255927712
+      Industrial-TileSheet_50: -7176869484890053377
+      Industrial-TileSheet_127: 4367275499037615387
+      Industrial-TileSheet_165: -3444382001144707653
+      Industrial-TileSheet_59: 5685116741237093791
+      Industrial-TileSheet_62: 3417841132234104462
+      Industrial-TileSheet_99: 1490955979426442796
+      Industrial-TileSheet_242: -3015141340020091762
+      Industrial-TileSheet_35: -5858200966246661909
+      Industrial-TileSheet_257: 603654003103977607
+      Industrial-TileSheet_198: 7903683104641512632
+      Industrial-TileSheet_80: -7723175479133952669
+      Industrial-TileSheet_221: 1912450311473359227
+      Industrial-TileSheet_147: -8925505584465615426
+      Industrial-TileSheet_210: -5653980488374500101
+      Industrial-TileSheet_129: 7890899679682372920
+      Industrial-TileSheet_192: 1328282711076718785
+      Industrial-TileSheet_5: -8633747852179855539
+      Industrial-TileSheet_32: 2584911696969820875
+      Industrial-TileSheet_87: 7207074563019266179
+      Industrial-TileSheet_146: 7575832275364993310
+      Industrial-TileSheet_56: 3223395436056045370
+      Industrial-TileSheet_74: -5953543989311352450
+      Industrial-TileSheet_142: 1865609125734732772
+      Industrial-TileSheet_151: -4505669230536444617
+      Industrial-TileSheet_274: 2072174199562783772
+      Industrial-TileSheet_143: 7296740394080930057
+      Industrial-TileSheet_31: -6039775331056138634
+      Industrial-TileSheet_12: 6648528989501939613
+      Industrial-TileSheet_115: 8595904333523098526
+      Industrial-TileSheet_157: 320691734332464067
+      Industrial-TileSheet_34: -7773315407850196398
+      Industrial-TileSheet_3: -3749701248768094888
+      Industrial-TileSheet_84: 1430361079045136477
+      Industrial-TileSheet_43: -3501789037583750603
+      Industrial-TileSheet_191: -3890557494343213801
+      Industrial-TileSheet_253: -4916778345746764774
+      Industrial-TileSheet_182: -2850891014159655632
+      Industrial-TileSheet_190: 3965410771597989655
+      Industrial-TileSheet_239: -6882871307025562858
+      Industrial-TileSheet_10: 8027430932337170381
+      Industrial-TileSheet_23: -732694435164549198
+      Industrial-TileSheet_13: -8001385622873072580
+      Industrial-TileSheet_270: -6278554058665790068
+      Industrial-TileSheet_267: 4772629911253689745
+      Industrial-TileSheet_224: 2750757950147055344
+      Industrial-TileSheet_149: 2339875175893703269
+      Industrial-TileSheet_90: -5987412565687238123
+      Industrial-TileSheet_269: -8730362566665089639
+      Industrial-TileSheet_173: -5383346164371525188
+      Industrial-TileSheet_170: 4602346943653106048
+      Industrial-TileSheet_275: 1220708850475887626
+      Industrial-TileSheet_37: 376901131992641930
+      Industrial-TileSheet_227: 1563356231238592544
+      Industrial-TileSheet_177: 5546042593983154230
+      Industrial-TileSheet_189: 8318804663288761796
+      Industrial-TileSheet_248: 8987962276797481056
+      Industrial-TileSheet_117: 572290318716561727
+      Industrial-TileSheet_158: 3539619144565022024
+      Industrial-TileSheet_254: -3670753804257330575
+      Industrial-TileSheet_162: -2098500444200426274
+      Industrial-TileSheet_244: 1529597323323085470
+      Industrial-TileSheet_8: -8659185080867650587
+      Industrial-TileSheet_119: 8213046557372087868
+      Industrial-TileSheet_134: -3906196179076297323
+      Industrial-TileSheet_103: 3785285691046918597
+      Industrial-TileSheet_24: -1010188653417655990
+      Industrial-TileSheet_42: -6304845336532907757
+      Industrial-TileSheet_266: -2675038626473868835
+      Industrial-TileSheet_193: -3555011625739303870
+      Industrial-TileSheet_75: 256390021568173920
+      Industrial-TileSheet_214: -3660802228079042345
+      Industrial-TileSheet_185: 8274220648867862628
+      Industrial-TileSheet_63: -2701160470108429499
+      Industrial-TileSheet_76: 7084768701968004817
+      Industrial-TileSheet_78: 3784637569763186551
+      Industrial-TileSheet_183: -6884257289959250967
+      Industrial-TileSheet_228: -5514793632712249754
+      Industrial-TileSheet_92: -6629761028166546680
+      Industrial-TileSheet_238: 1805765988446757151
+      Industrial-TileSheet_159: 4160180860091687330
+      Industrial-TileSheet_112: -167185682890175196
+      Industrial-TileSheet_179: 4162257583561825231
+      Industrial-TileSheet_260: -8530562061662292723
+      Industrial-TileSheet_271: -6183189771237779443
+      Industrial-TileSheet_241: 7153406669533720593
+      Industrial-TileSheet_52: 7483859173390072991
+      Industrial-TileSheet_261: -3868759012485849254
+      Industrial-TileSheet_178: -5012882133067405589
+      Industrial-TileSheet_22: -876716794570187248
+      Industrial-TileSheet_69: -6197680479364142182
+      Industrial-TileSheet_55: 2844062381063717215
+      Industrial-TileSheet_139: 6531587196083519201
+      Industrial-TileSheet_155: 3615932570809186733
+      Industrial-TileSheet_220: -6655121385131813370
+      Industrial-TileSheet_223: 5548699384712769476
+      Industrial-TileSheet_160: -6826219656100292441
+      Industrial-TileSheet_61: 9126012189416173696
+      Industrial-TileSheet_265: 1605781850657654189
+      Industrial-TileSheet_258: 6597072232293678522
+      Industrial-TileSheet_66: -25402760727665430
+      Industrial-TileSheet_26: 81051097208075793
+      Industrial-TileSheet_108: 2423278288632239428
+      Industrial-TileSheet_20: 8723952368440954054
+      Industrial-TileSheet_206: -5684284865992363681
+      Industrial-TileSheet_184: 2208373917448688192
+      Industrial-TileSheet_212: -2785515168597597668
+      Industrial-TileSheet_7: -613363117502183263
+      Industrial-TileSheet_48: 4074599190995739517
+      Industrial-TileSheet_262: 9103585068294105769
+      Industrial-TileSheet_60: -3654390917620531729
+      Industrial-TileSheet_0: 15945331637124544
+      Industrial-TileSheet_203: -1310247058072045094
+      Industrial-TileSheet_180: -2924245404475213706
+      Industrial-TileSheet_36: -3614511767985000537
+      Industrial-TileSheet_65: -4877880362268190024
+      Industrial-TileSheet_166: -6883605234102929038
+      Industrial-TileSheet_243: 3060455126217405060
+      Industrial-TileSheet_79: 5454462143620107884
+      Industrial-TileSheet_14: 4282932300002319765
+      Industrial-TileSheet_226: 928230428903796773
+      Industrial-TileSheet_64: 7507107593307857899
+      Industrial-TileSheet_46: 7845078801993703143
+      Industrial-TileSheet_250: -2764451927007836751
+      Industrial-TileSheet_53: 1824133918497744681
+      Industrial-TileSheet_215: -7002333804543845417
+      Industrial-TileSheet_123: -5061179644444474529
+      Industrial-TileSheet_137: 2434654285968875424
+      Industrial-TileSheet_164: 1709948893466567824
+      Industrial-TileSheet_208: -8312013476617084810
+      Industrial-TileSheet_122: -8501198091964945968
+      Industrial-TileSheet_140: -1412968124262931191
+      Industrial-TileSheet_251: -927097861948425281
+      Industrial-TileSheet_41: -7069944157178334547
+      Industrial-TileSheet_21: 511675761862818120
+      Industrial-TileSheet_133: -8544182471378113195
+      Industrial-TileSheet_130: -6184959399369569627
+      Industrial-TileSheet_125: -4050933403477561853
+      Industrial-TileSheet_156: -4298690702077361321
+      Industrial-TileSheet_168: 7025182170542936141
+      Industrial-TileSheet_272: 7206828045934336763
+      Industrial-TileSheet_216: 9035759959744454781
+      Industrial-TileSheet_58: -3928179320706488507
+      Industrial-TileSheet_263: 8434510449470286634
+      Industrial-TileSheet_235: 1544206726696979492
+      Industrial-TileSheet_83: -8793629957047849244
+      Industrial-TileSheet_230: 1705683154730783951
+      Industrial-TileSheet_89: -175017441791578107
+      Industrial-TileSheet_113: -7016392667694459454
+      Industrial-TileSheet_85: -870466472174459823
+      Industrial-TileSheet_101: -4693484562116630243
+      Industrial-TileSheet_150: -6250472885221370074
+      Industrial-TileSheet_229: -8007311573831805234
+      Industrial-TileSheet_195: -354259930263242620
+      Industrial-TileSheet_249: 1465320708481234130
+      Industrial-TileSheet_45: 2073320420214290560
+      Industrial-TileSheet_201: -8168138645149153529
+      Industrial-TileSheet_16: -7486740368743524901
+      Industrial-TileSheet_234: -3005173132049524796
+      Industrial-TileSheet_77: -7024199309823981507
+      Industrial-TileSheet_57: -8596500951068820863
+      Industrial-TileSheet_91: -224275524097794388
+      Industrial-TileSheet_167: -697037308974183073
+      Industrial-TileSheet_121: -3499325891141778809
+      Industrial-TileSheet_39: -9199056963296852405
+      Industrial-TileSheet_6: 150724850986682109
+      Industrial-TileSheet_96: 5207696585924445064
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
